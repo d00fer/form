@@ -74,6 +74,9 @@ body{
 	font-weight: bold;
 }
 
+.error{
+	color:hsl(0, 100%,74%) 
+}
 @media(min-width: 769px){
 .main{
 	background: url("../public/bg-desktop.png") no-repeat center/cover;
